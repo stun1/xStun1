@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @xStun1
-- 👀 I’m interested in coding discord bots
-- 🌱 I’m currently learning java and python
-- 💬 Dm Stun#0001 to get a hold of me
+Hi, I'm stun
